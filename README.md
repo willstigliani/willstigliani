@@ -36,3 +36,8 @@ Currently shaping the future of smart living at **ROEHN**, while exploring the i
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
 </p>
+
+### Contact
+<a href="https://www.linkedin.com/in/willianstigliani/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
